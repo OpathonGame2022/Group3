@@ -12714,11 +12714,11 @@
   "project": {
     "version": "0.3.0",
     "restore": {
-      "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
+      "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
       "projectName": "Senparc.Xncf.Installer",
-      "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
+      "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
       "packagesPath": "/Users/leozheng/.nuget/packages/",
-      "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/obj/",
+      "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leozheng/.nuget/NuGet/NuGet.Config"
@@ -12733,11 +12733,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
-              "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj"
+            "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
+              "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj"
             },
-            "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
-              "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj"
+            "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
+              "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj"
             }
           }
         }

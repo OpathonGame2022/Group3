@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Senparc.Web
 build_property.RootNamespace = Senparc.Web
-build_property.ProjectDir = /Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/
+build_property.ProjectDir = /Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web
+build_property.MSBuildProjectDirectory = /Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Error.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Index.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Privacy.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Shared/_CookieConsentPartial.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Shared/_CookieConsentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Shared/_Layout.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/_ViewImports.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Pages/_ViewStart.cshtml]
+[/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

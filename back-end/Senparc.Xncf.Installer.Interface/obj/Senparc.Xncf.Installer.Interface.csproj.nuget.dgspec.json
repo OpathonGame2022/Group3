@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {}
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {}
   },
   "projects": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
       "version": "0.1.0",
       "restore": {
-        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+        "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
         "projectName": "Senparc.Xncf.Installer.Interface",
-        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+        "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
         "packagesPath": "/Users/leozheng/.nuget/packages/",
-        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/",
+        "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer.Interface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leozheng/.nuget/NuGet/NuGet.Config"

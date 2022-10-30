@@ -9658,11 +9658,11 @@
   "project": {
     "version": "0.3.1-beta3",
     "restore": {
-      "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Senparc.Web.csproj",
+      "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Senparc.Web.csproj",
       "projectName": "Senparc.Web",
-      "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/Senparc.Web.csproj",
+      "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/Senparc.Web.csproj",
       "packagesPath": "/Users/leozheng/.nuget/packages/",
-      "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web/obj/",
+      "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leozheng/.nuget/NuGet/NuGet.Config"
@@ -9677,11 +9677,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
-              "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj"
+            "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
+              "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj"
             },
-            "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj": {
-              "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj"
+            "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj": {
+              "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj"
             }
           }
         }

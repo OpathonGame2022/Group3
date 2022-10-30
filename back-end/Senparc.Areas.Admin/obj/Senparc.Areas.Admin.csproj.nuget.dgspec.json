@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {}
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {}
   },
   "projects": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
+        "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
         "projectName": "Senparc.Areas.Admin",
-        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
+        "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
         "packagesPath": "/Users/leozheng/.nuget/packages/",
-        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/",
+        "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Areas.Admin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leozheng/.nuget/NuGet/NuGet.Config"

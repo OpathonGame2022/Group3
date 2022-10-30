@@ -12006,11 +12006,11 @@
   "project": {
     "version": "0.1.0",
     "restore": {
-      "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Accounts/Senparc.Xncf.Accounts.csproj",
+      "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Accounts/Senparc.Xncf.Accounts.csproj",
       "projectName": "Senparc.Xncf.Accounts",
-      "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Accounts/Senparc.Xncf.Accounts.csproj",
+      "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Accounts/Senparc.Xncf.Accounts.csproj",
       "packagesPath": "/Users/leozheng/.nuget/packages/",
-      "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Accounts/obj/",
+      "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Accounts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leozheng/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xkrveB4xZl7Sk+Eb01YsWq20BxingKgM0WWBiVuRxfZvBdVr7+YJNNl9+ii0bYD9TdubsqkO1j1hs7WZJgt71g==",
+  "dgSpecHash": "A51obKi6SiynKzEsmULpZiSjD63qUjneKT8Lan+J3a5/Sg4ZGTal44vVMSzO0x1QZd5hlj+n5kuNa+f8pDUG2Q==",
   "success": true,
-  "projectFilePath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
+  "projectFilePath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
   "expectedPackageFiles": [
     "/Users/leozheng/.nuget/packages/automapper/7.0.1/automapper.7.0.1.nupkg.sha512",
     "/Users/leozheng/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/5.0.1/automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",

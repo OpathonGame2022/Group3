@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj": {}
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj": {}
   },
   "projects": {
-    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj": {
+    "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj",
+        "projectUniqueName": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj",
         "projectName": "Senparc.Web.FirefoxDriverTest",
-        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj",
+        "projectPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web.FirefoxDriverTest/Senparc.Web.FirefoxDriverTest.csproj",
         "packagesPath": "/Users/leozheng/.nuget/packages/",
-        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Web.FirefoxDriverTest/obj/",
+        "outputPath": "/Users/leozheng/Desktop/opathon/Group3/back-end/Senparc.Web.FirefoxDriverTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leozheng/.nuget/NuGet/NuGet.Config"
