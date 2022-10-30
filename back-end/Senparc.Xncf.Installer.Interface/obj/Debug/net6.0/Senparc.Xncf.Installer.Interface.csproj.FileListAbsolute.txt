@@ -1,0 +1,12 @@
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/bin/Debug/net6.0/Senparc.Xncf.Installer.Interface.deps.json
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/bin/Debug/net6.0/Senparc.Xncf.Installer.Interface.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/bin/Debug/net6.0/Senparc.Xncf.Installer.Interface.pdb
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.csproj.AssemblyReference.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.AssemblyInfoInputs.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.AssemblyInfo.cs
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.csproj.CoreCompileInputs.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/refint/Senparc.Xncf.Installer.Interface.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/Senparc.Xncf.Installer.Interface.pdb
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/Debug/net6.0/ref/Senparc.Xncf.Installer.Interface.dll

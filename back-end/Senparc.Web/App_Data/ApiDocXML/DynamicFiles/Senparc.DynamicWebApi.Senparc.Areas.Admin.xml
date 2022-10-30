@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Senparc.DynamicWebApi.Senparc.Areas.Admin</name>
+  </assembly>
+  <members>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_AdminUserInfoAppService_AddRoleAsync(Senparc.Areas.Admin.OHS.PL.AdminUserInfo_AddRoleRequest)">
+      <summary>
+            增加角色
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_AdminUserInfoAppService_Create(Senparc.Areas.Admin.OHS.PL.AdminUserInfo_CreateOrUpdateRequest)">
+      <summary>
+            创建管理员
+            </summary>
+      <param name="request">管理员创建请求</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_AdminUserInfoAppService_GetRolesAsync(Senparc.Areas.Admin.OHS.PL.AdminUserInfo_AddRoleRequest)">
+      <summary>
+            获取当前用户的所有角色
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_AdminUserInfoAppService_LoginAsync(Senparc.Areas.Admin.OHS.PL.AdminUserInfo_LoginRequest)">
+      <summary>
+            管理员登录验证，并进行登录授权
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_AdminUserInfoAppService_Update(Senparc.Areas.Admin.OHS.PL.AdminUserInfo_CreateOrUpdateRequest)">
+      <summary>
+            修改管理员
+            </summary>
+      <param name="request">管理员创建请求</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysMenuAppService_CreateOrUpdateAsync(Senparc.Areas.Admin.OHS.Local.PL.SysMenu_CreateOrUpdateRequest)">
+      <summary>
+            创建菜单
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysMenuAppService_DeleteMenuAsync(System.String)">
+      <summary>
+            删除菜单
+            </summary>
+      <param name="id">父级Id</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysMenuAppService_GetAllMenusTreeAsync(System.Boolean)">
+      <summary>
+            获取菜单树 不包含按钮
+            </summary>
+      <param name="hasButton">是否包含按钮</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysMenuAppService_GetMenuAsync(System.String)">
+      <summary>
+            获取菜单详情
+            </summary>
+      <param name="id">父级Id</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysMenuAppService_GetMenusAsync(System.String)">
+      <summary>
+            获取菜单列表
+            </summary>
+      <param name="parentId">父级Id</param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_AddPermissionAsync(Senparc.Areas.Admin.OHS.Local.PL.SysRole_AddPermissionRequest)">
+      <summary>
+            增加权限
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_CreateOrUpdateAsync(Senparc.Areas.Admin.OHS.Local.PL.SysRole_CreateOrUpdateRequest)">
+      <summary>
+            创建or修改角色信息
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+      <exception cref="T:Senparc.Ncf.Core.Exceptions.NcfExceptionBase"></exception>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_DeleteSingeAsync(System.String)">
+      <summary>
+            删除角色
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_GetListAsync(Senparc.Areas.Admin.OHS.Local.PL.SysRole_GetListRequest)">
+      <summary>
+            获取分页列表
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_GetRolePermissionsAsync(System.String)">
+      <summary>
+            获取角色下面的所有菜单
+            </summary>
+      <param name="roleId"></param>
+      <returns></returns>
+    </member>
+    <member name="M:Senparc.Areas.AdminController.Senparc_Areas_Admin_SysRoleAppService_GetSingeAsync(System.String)">
+      <summary>
+            获取详情
+            </summary>
+      <param name="request"></param>
+      <returns></returns>
+    </member>
+  </members>
+</doc>

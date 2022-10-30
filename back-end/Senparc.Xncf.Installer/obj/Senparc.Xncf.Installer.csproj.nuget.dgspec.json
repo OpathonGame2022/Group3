@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj": {}
+  },
+  "projects": {
+    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
+        "projectName": "Senparc.Areas.Admin",
+        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj",
+        "packagesPath": "/Users/leozheng/.nuget/packages/",
+        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leozheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Senparc.CO2NET.Cache.CsRedis": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Senparc.CO2NET.Cache.Redis": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Senparc.Ncf.AreaBase": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.Core": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.Log": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.Mvc.UI": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.Service": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.Utility": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.XncfBase": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Xncf.AreasBase": {
+              "target": "Package",
+              "version": "[0.2.3-beta7, )"
+            },
+            "Senparc.Xncf.SystemCore": {
+              "target": "Package",
+              "version": "[0.3.3.2-beta7, )"
+            },
+            "Senparc.Xncf.SystemManager": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.Tenant": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.XncfModuleManager": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+        "projectName": "Senparc.Xncf.Installer.Interface",
+        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+        "packagesPath": "/Users/leozheng/.nuget/packages/",
+        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leozheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Senparc.Xncf.Tenant.Interface": {
+              "target": "Package",
+              "version": "[0.1.2-beta8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj": {
+      "version": "0.3.0",
+      "restore": {
+        "projectUniqueName": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
+        "projectName": "Senparc.Xncf.Installer",
+        "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/Senparc.Xncf.Installer.csproj",
+        "packagesPath": "/Users/leozheng/.nuget/packages/",
+        "outputPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leozheng/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj": {
+                "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Senparc.Areas.Admin.csproj"
+              },
+              "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj": {
+                "projectPath": "/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapr.AspNetCore": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Senparc.Ncf.AreaBase": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Ncf.DatabasePlant": {
+              "target": "Package",
+              "version": "[0.11.4.1-beta7, )"
+            },
+            "Senparc.Ncf.XncfBase": {
+              "target": "Package",
+              "version": "[0.11.3-beta7, )"
+            },
+            "Senparc.Xncf.AreasBase": {
+              "target": "Package",
+              "version": "[0.2.3-beta7, )"
+            },
+            "Senparc.Xncf.Menu": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.Swagger": {
+              "target": "Package",
+              "version": "[0.6.3-beta7, )"
+            },
+            "Senparc.Xncf.SystemCore": {
+              "target": "Package",
+              "version": "[0.3.3.2-beta7, )"
+            },
+            "Senparc.Xncf.SystemManager": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.SystemPermission": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.Tenant": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            },
+            "Senparc.Xncf.Terminal": {
+              "target": "Package",
+              "version": "[0.12.3-beta7, )"
+            },
+            "Senparc.Xncf.XncfBuilder": {
+              "target": "Package",
+              "version": "[0.13.4.1-beta7, )"
+            },
+            "Senparc.Xncf.XncfModuleManager": {
+              "target": "Package",
+              "version": "[0.3.3.1-beta7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

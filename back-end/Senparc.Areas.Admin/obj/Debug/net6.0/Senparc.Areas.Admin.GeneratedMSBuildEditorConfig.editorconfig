@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Senparc.Areas.Admin
+build_property.RootNamespace = Senparc.Areas.Admin
+build_property.ProjectDir = /Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/
+build_property.RazorLangVersion = 2.1
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/AdminUserInfo/AuthorizationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvQWRtaW5Vc2VySW5mby9BdXRob3JpemF0aW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/AdminUserInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvQWRtaW5Vc2VySW5mby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/AdminUserInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvQWRtaW5Vc2VySW5mby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Menu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvTWVudS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvTWVudS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvUm9sZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvUm9sZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Role/Permission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvUm9sZS9QZXJtaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/SenparcTrace/DateLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2VucGFyY1RyYWNlL0RhdGVMb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/SenparcTrace/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2VucGFyY1RyYWNlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2hhcmVkL19IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Shared/_Layout_Vue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2hhcmVkL19MYXlvdXRfVnVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Shared/_MenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2hhcmVkL19NZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Shared/_XncfModuleLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2hhcmVkL19YbmNmTW9kdWxlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/Shared/_XncfModuleLayout_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU2hhcmVkL19YbmNmTW9kdWxlTGF5b3V0X01lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/SystemConfig/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvU3lzdGVtQ29uZmlnL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/TenantInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvVGVuYW50SW5mby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/XncfModule/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvWG5jZk1vZHVsZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/XncfModule/Start.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvWG5jZk1vZHVsZS9TdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/Areas/Admin/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

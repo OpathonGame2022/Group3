@@ -1,0 +1,29 @@
+{
+  "Version": 1,
+  "Hash": "5VgOYT6MVoLMJOoKTcn+58axTVB62tozY34QQQ43LrE=",
+  "Source": "Senparc.Web.DatabasePlant",
+  "BasePath": "_content/Senparc.Web.DatabasePlant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/Users/leozheng/.nuget/packages/senparc.xncf.swagger/0.6.3-beta7/staticwebassets/js/swagger.js",
+      "SourceId": "Senparc.Xncf.Swagger",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/leozheng/.nuget/packages/senparc.xncf.swagger/0.6.3-beta7/staticwebassets/",
+      "BasePath": "_content/Senparc.Xncf.Swagger",
+      "RelativePath": "js/swagger.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/leozheng/.nuget/packages/senparc.xncf.swagger/0.6.3-beta7/staticwebassets/js/swagger.js"
+    }
+  ]
+}

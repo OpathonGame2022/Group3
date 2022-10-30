@@ -1,0 +1,16 @@
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/bin/Debug/net6.0/Senparc.Areas.Admin.deps.json
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/bin/Debug/net6.0/Senparc.Areas.Admin.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/bin/Debug/net6.0/Senparc.Areas.Admin.pdb
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/bin/Debug/net6.0/Senparc.Areas.Admin.XML
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.csproj.AssemblyReference.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.EmbeddedFilesManifest.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.AssemblyInfoInputs.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.AssemblyInfo.cs
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.csproj.CoreCompileInputs.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.RazorAssemblyInfo.cache
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.RazorAssemblyInfo.cs
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/refint/Senparc.Areas.Admin.dll
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/Senparc.Areas.Admin.pdb
+/Users/leozheng/Desktop/NCF-master/src/back-end/Senparc.Areas.Admin/obj/Debug/net6.0/ref/Senparc.Areas.Admin.dll
